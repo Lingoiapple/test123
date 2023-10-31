@@ -1,3 +1,4 @@
 123new
 
 add: Register a change in an index
+commit: Save the status of an index
