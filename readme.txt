@@ -1,3 +1,4 @@
 123new
 
 add: Register a change in an index
+pull: Obtain the content of the remote repository
